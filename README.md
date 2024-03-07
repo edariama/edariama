@@ -1,11 +1,27 @@
-👋 Hello, I'm [Your Name]!
+# Welcome to Gedariama Mandele's GitHub Profile! 👋
 
-👨‍💻 Junior Programmer passionate about coding, problem-solving, and creating user-friendly software solutions. 
+Hey there! I'm Gedariama Mandele a Junior Programmer with a passion for coding and creating innovative solutions. This is my GitHub space where I showcase my projects and share my journey in the world of programming.
 
-🎓 Currently studying [Your Field of Study/Technology] at [Your University/School] with a keen interest in [Specific Programming Languages/Technologies].
+## About Me ℹ️
 
-💼 Looking to grow and learn in a collaborative environment where I can contribute my skills and gain practical experience.
+- 🎓 Currently studying PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.
+- 💼 Seeking opportunities to grow and learn in a collaborative environment.
+- 🌱 Always eager to expand my knowledge and explore new technologies.
 
-🌱 Always eager to expand my knowledge and stay updated with the latest trends and technologies in the world of programming.
+## Skills 🚀
 
-💬 Let's connect and code together!
+Here are some of the skills and technologies I'm proficient in:
+
+- **Programming Languages**: Python, HTML, CSS, JavaScript, Dart
+- **Frameworks**: Django (Python), Flutter (Dart)
+- **Tools**: Git, VS Code, Sublime Text
+
+
+## Let's Connect! 🤝
+
+Feel free to reach out to me for collaboration or just to say hi! You can find me on:
+
+- 📧 Email: 
+- 💼 LinkedIn:  
+
+Let's code together and make awesome things happen! 💻✨
