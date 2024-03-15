@@ -4,7 +4,7 @@ Hey there! I'm Gedaria Mandele a Junior Programmer with a passion for coding and
 
 ## About Me ℹ️
 
-- 🎓 Currently studying PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.
+- 🎓 Currently studying BACHELOR OF SCIENCE IN PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.(2021-2024)
 - 💼 Seeking opportunities to grow and learn in a collaborative environment.
 - 🌱 Always eager to expand my knowledge and explore new technologies.
 
