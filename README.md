@@ -1,6 +1,6 @@
-# Welcome to Gedariama Mandele's GitHub Profile! 👋
+# Welcome to Gedaria Mandele's GitHub Profile! 👋
 
-Hey there! I'm Gedariama Mandele a Junior Programmer with a passion for coding and creating innovative solutions. This is my GitHub space where I showcase my projects and share my journey in the world of programming.
+Hey there! I'm Gedaria Mandele a Junior Programmer with a passion for coding and creating innovative solutions. This is my GitHub space where I showcase my projects and share my journey in the world of programming.
 
 ## About Me ℹ️
 
