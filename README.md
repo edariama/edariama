@@ -21,7 +21,7 @@ Here are some of the skills and technologies I'm proficient in:
 
 Feel free to reach out to me for collaboration or just to say hi! You can find me on:
 
-- 📧 Email: 
-- 💼 LinkedIn:  
+- 📧 Email: ndelegedariaanuarithe@yahoo.com mandelegedaria@gmail.com
+- 💼 LinkedIn:  https://www.linkedin.com/in/gedaria-mandele
 
 Let's code together and make awesome things happen! 💻✨
