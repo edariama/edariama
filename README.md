@@ -45,8 +45,8 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<hr/>
+<details>
+ <hr/>
 <h3 align="center">A software developer from Tanzania:</h3>
 
 <br/>
@@ -54,7 +54,7 @@
     <p>🎓 Currently studying BACHELOR OF SCIENCE IN PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.(2021-2024)<br>
    🌱 Always eager to expand my knowledge and explore new technologies.<br>
    📚 I’m passionate about learning Web Programming with Python.<br>
-</div>
+</div>   
+</details>
  
-
 Let's code together and make awesome things happen! 💻✨
