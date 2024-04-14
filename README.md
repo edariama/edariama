@@ -4,42 +4,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!;+It's+Me;+Gedaria+Mandele!;" />
 </h1>
 
-## Let's Connect! 🤝
 
-Feel free to reach out to me for collaboration or just to say hi! You can find me on:
 <div align="center"> 
+    <h3>Let's Connect! 🤝</h3>
+    <p>Feel free to reach out to me for collaboration or just to say hi! You can find me on:</p>
   <a href="mandelegedaria@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-<!--
-  <a href="https://www.linkedin.com/in/username/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
--->
-<!--<a href="https://twitter.com/Annu66126617" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-007785?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" />
-  </a> -->
-
 <a href="https://www.tiktok.com/@layckeram.32nuugee?_r" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
   </a>
-  <!-- <a href="https://bio.link/annukumalu" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> 
 </div>
-
 
 <hr/>
 <h3 align="center">A software developer from Tanzania:</h3>
 
-
 <br/>
 <div align="center">
-    🎓 Currently studying BACHELOR OF SCIENCE IN PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.(2021-2024)
-    💼 Seeking opportunities to grow and learn in a collaborative environment.
-   🌱 Always eager to expand my knowledge and explore new technologies.
-   📚 I’m currently learning **Web Programming with Python on PLP**
-   <p> 💬Let's collaborate👥. </p> 
+    <p>🎓 Currently studying BACHELOR OF SCIENCE IN PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.(2021-2024)<br>
+   🌱 Always eager to expand my knowledge and explore new technologies.<br>
+   📚 I’m passionate about learning Web Programming with Python.<br>
+   <p> 💬Let's collaborate👥. </p> <br>
 </div>
  
 <hr/>
