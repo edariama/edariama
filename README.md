@@ -9,8 +9,8 @@
 <br/>
 <div align="center">
     <div style="float:right; width:50%;">
-        <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-        <img src="https://skillicons.dev/icons?i=python,javascript,react,django" /><br>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+        <img src="https://skillicons.dev/icons?i=python,github,vscode,git,django" /><br>
         <p>💬 Let's collaborate 👥.</p>
     </div>
 </div>
