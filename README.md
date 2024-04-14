@@ -8,20 +8,12 @@
 <h2 align="center">⚒ <span style="color: teal">languages </span>- <span style="color: tan">frameworks </span>- <span style="color: crimson">tools️ </span>⚒</h2>
 <br/>
 <div align="center">
-    <div style="float:left; width:50%;">
-        <p>🎓 Currently studying BACHELOR OF SCIENCE IN PSYCHOLOGY AND COUNCELLNG at JORDAN UNIVERSITY COLLEGE.(2021-2024)<br>
-        🌱 Always eager to expand my knowledge and explore new technologies.<br>
-        📚 I’m passionate about learning Web Programming with Python.<br>
-        </p>
-        <p>Let's code together and make awesome things happen! 💻✨</p>
-    </div>
     <div style="float:right; width:50%;">
         <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
         <img src="https://skillicons.dev/icons?i=python,javascript,react,django" /><br>
         <p>💬 Let's collaborate 👥.</p>
     </div>
 </div>
-
 
 <hr/>
 
@@ -66,3 +58,4 @@
 </details>
  
 Let's code together and make awesome things happen! 💻✨
+
